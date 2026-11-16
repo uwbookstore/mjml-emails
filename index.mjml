@@ -1,0 +1,128 @@
+<mjml>
+  <mj-body>
+    <!-- HEADER START -->
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://i.univbkstr.com/img/logos/ubsLogo.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- HEADER END -->
+
+    <!-- Customer Name & Order # -->
+    <mj-section>
+      <mj-column width="50%">
+        <mj-text font-size="16px" color="#505050"> Hello Joe Sample </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text font-size="16px" color="#505050" align="right">
+          Order#: 123456
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text
+          font-size="22px"
+          font-weight="700"
+          color="#505050"
+          align="center">
+          Thank you for your order!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Status Image -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image
+          src="https://i.univbkstr.com/img/email/firstStep.png"
+          alt="Order Submitted" />
+
+        <mj-text font-size="16px" color="#505050">
+          Our order processing time is 5-7 business days (Monday thru Friday)
+          for ground shipping, 1-2 business days for expedited orders. Your
+          order will be shipped via UPS&reg;, FedEx&reg;, or USPS&reg;.
+        </mj-text>
+
+        <mj-text font-size="16px" color="#505050" font-weight="700">
+          The processing time for <em>most</em> pickup at store orders is 1 to 2
+          days. You will receive notification when your order is ready for pick
+          up.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%" background-color="#cccccc">
+        <mj-text
+          font-size="14px"
+          color="#505050"
+          font-weight="700"
+          align="center">
+          Payment Processing
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="100%">
+        <mj-image
+          width="219px"
+          height="32px"
+          src="https://i.univbkstr.com/img/email/card-sprite.png"
+          alt="We accept Visa, MasterCard, Discover, and American Express" />
+      </mj-column>
+
+      <mj-column width="100%">
+        <mj-text color="#505050" font-size="16px" line-height="1.4">
+          If you are using one (or more) University Book Store Gift Cards, Our
+          system does check with your credit/debit card provider to make sure
+          that there are sufficient funds available to cover the total amount of
+          the order (your financial institution might list this fund check with
+          a &ldquo;Pending&rdquo; notation). That happens even if you have
+          entered a gift card(s) with a balance that covers the entire cost of
+          the order. When your order is processed our system will apply the gift
+          card(s) first. If that covers the total amount of the order your
+          credit/debit card will not be billed anything. If the gift card covers
+          a portion of the order total your credit/debit card will be billed the
+          difference. Only if the gift card has no balance would the entire
+          amount of the order be billed to your credit/debit card.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="50%">
+        <mj-text font-size="16px" color="#505050" font-weight="700">
+          Billing Address:
+        </mj-text>
+        <mj-text> Address 1 </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text font-size="16px" color="#505050" font-weight="700">
+          Shipping Address:
+        </mj-text>
+        <mj-text> Address 2 </mj-text>
+      </mj-column>
+
+      <mj-column
+        width="100%"
+        background-color="#fcf8e3"
+        border="1px solid #faebcc">
+        <mj-text font-size="16px" color="#8a6d3b" font-weight="700">
+          Payment Method:
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text color="#505050" font-size="14px"> Shipping Method: </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Item Information -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text color="#505050" font-size="16px" line-height="1.4">
+          Merchandise Information:<br />
+          All Line Items
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
