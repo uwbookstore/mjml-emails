@@ -17,7 +17,7 @@
     </mj-style>
   </mj-head>
 
-  <mj-body background-color="#f5f5f5">
+  <mj-body background-color="#bedae6">
     <!-- HEADER START -->
     <mj-section>
       <mj-column padding-top="20px">
@@ -138,5 +138,70 @@
         </mj-text>
       </mj-column>
     </mj-section>
+
+    <mj-section background-color="#f2f2f2" padding="15px">
+      <mj-column width="44px" padding-right="10px">
+        <mj-image
+          width="34px"
+          src="https://i.univbkstr.com/img/email/facebook.png"
+          alt="Follow us on Facebook"
+          href="http://bit.ly/FBubsInsite" />
+      </mj-column>
+
+      <mj-column width="44px" padding-right="10px">
+        <mj-image
+          width="34px"
+          src="https://i.univbkstr.com/img/email/twitter.png"
+          alt="Follow us on X"
+          href="http://bit.ly/TWubsInsite" />
+      </mj-column>
+
+      <mj-column width="44px" padding-right="10px">
+        <mj-image
+          width="34px"
+          src="https://i.univbkstr.com/img/email/instagram.png"
+          alt="Follow us on Instagram"
+          href="http://bit.ly/IubsInsite" />
+      </mj-column>
+
+      <mj-column width="34px">
+        <mj-image
+          width="34px"
+          src="https://i.univbkstr.com/img/email/tiktok.png"
+          alt="Follow us on Facebook"
+          href="https://www.tiktok.com/@uwbookstore" />
+      </mj-column>
+    </mj-section>
+
+    <!-- <mj-section background-color="#f2f2f2" padding="15px">
+      <mj-column width="25%">
+        <mj-image
+          width="34px"
+          src="https://i.univbkstr.com/img/email/facebook.png"
+          alt="Follow us on Facebook"
+          href="http://bit.ly/FBubsInsite" />
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image
+          width="34px"
+          src="https://i.univbkstr.com/img/email/twitter.png"
+          alt="Follow us on X"
+          href="http://bit.ly/TWubsInsite" />
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image
+          width="34px"
+          src="https://i.univbkstr.com/img/email/instagram.png"
+          alt="Follow us on Instagram"
+          href="http://bit.ly/IubsInsite" />
+      </mj-column>
+      <mj-column width="25%">
+        <mj-image
+          width="34px"
+          src="https://i.univbkstr.com/img/email/tiktok.png"
+          alt="Follow us on Facebook"
+          href="https://www.tiktok.com/@uwbookstore" />
+      </mj-column>
+    </mj-section> -->
   </mj-body>
 </mjml>
